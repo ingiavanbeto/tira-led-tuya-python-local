@@ -1,0 +1,326 @@
+{
+    "result": [
+        {
+            "active_time": 1746204016,
+            "biz_type": 18,
+            "category": "dd",
+            "create_time": 1746204016,
+            "icon": "smart/icon/bay1603977681600o7pj/4a97400e6f366f2af15397fddd50cbd0.png",
+            "id": "eb8ede9d76e23e3c160wp2",
+            "ip": "201.152.16.196",
+            "lat": "22.16",
+            "local_key": "f+.z1#WH;aIZ>Zw?",
+            "lon": "-100.99",
+            "model": "DR03W",
+            "name": "Dream Color RGB",
+            "online": true,
+            "owner_id": "213737813",
+            "product_id": "abhyyb8q3h05joxw",
+            "product_name": "Dream Color RGB",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "colour"
+                },
+                {
+                    "code": "colour_data",
+                    "value": ""
+                },
+                {
+                    "code": "countdown",
+                    "value": 0
+                }
+            ],
+            "sub": false,
+            "time_zone": "-06:00",
+            "uid": "az17263765402284PX9M",
+            "update_time": 1746452379,
+            "uuid": "471a6f322707d173",
+            "mapping": {
+                "20": {
+                    "code": "switch_led",
+                    "type": "Boolean",
+                    "values": {}
+                },
+                "21": {
+                    "code": "work_mode",
+                    "type": "Enum",
+                    "values": {
+                        "range": [
+                            "white",
+                            "colour",
+                            "scene",
+                            "music"
+                        ]
+                    }
+                },
+                "24": {
+                    "code": "colour_data",
+                    "type": "Json",
+                    "raw_values": "{\"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}}",
+                    "values": {
+                        "h": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 360,
+                            "step": 1
+                        },
+                        "s": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 1000,
+                            "step": 1
+                        },
+                        "v": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 1000,
+                            "step": 1
+                        }
+                    }
+                },
+                "26": {
+                    "code": "countdown",
+                    "type": "Integer",
+                    "values": {
+                        "unit": "s",
+                        "min": 0,
+                        "max": 86400,
+                        "scale": 0,
+                        "step": 1
+                    }
+                },
+                "27": {
+                    "code": "music_data",
+                    "type": "Json",
+                    "raw_values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}",
+                    "values": {
+                        "change_mode": {
+                            "range": [
+                                "direct",
+                                "gradient"
+                            ]
+                        },
+                        "bright": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 1000,
+                            "step": 1
+                        },
+                        "temperature": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 1000,
+                            "step": 1
+                        },
+                        "h": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 360,
+                            "step": 1
+                        },
+                        "s": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 255,
+                            "step": 1
+                        },
+                        "v": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 255,
+                            "step": 1
+                        }
+                    }
+                },
+                "28": {
+                    "code": "control_data",
+                    "type": "Json",
+                    "raw_values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}",
+                    "values": {
+                        "change_mode": {
+                            "range": [
+                                "direct",
+                                "gradient"
+                            ]
+                        },
+                        "bright": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 1000,
+                            "step": 1
+                        },
+                        "temperature": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 1000,
+                            "step": 1
+                        },
+                        "h": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 360,
+                            "step": 1
+                        },
+                        "s": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 255,
+                            "step": 1
+                        },
+                        "v": {
+                            "min": 0,
+                            "scale": 0,
+                            "unit": "",
+                            "max": 255,
+                            "step": 1
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "active_time": 1733429579,
+            "biz_type": 18,
+            "category": "cz",
+            "create_time": 1726116876,
+            "icon": "smart/icon/ay1540317544338HahJd/ceab454f5045f6b3808851110ced24d6.png",
+            "id": "eb2939b5aa039f7e8d5e8q",
+            "ip": "187.189.181.31",
+            "lat": "22.16",
+            "local_key": "HGJ&o;u*[E&.@#PP",
+            "lon": "-100.99",
+            "model": "SHOME-100",
+            "name": "luz cuarto",
+            "online": true,
+            "owner_id": "213737813",
+            "product_id": "m0fuzrzt3olla9yb",
+            "product_name": "Steren SHOME-100",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "random_time",
+                    "value": ""
+                },
+                {
+                    "code": "switch_inching",
+                    "value": ""
+                }
+            ],
+            "sub": false,
+            "time_zone": "-06:00",
+            "uid": "az17263765402284PX9M",
+            "update_time": 1746157723,
+            "uuid": "15a6942d51647258",
+            "mapping": {
+                "1": {
+                    "code": "switch_1",
+                    "type": "Boolean",
+                    "values": {}
+                },
+                "9": {
+                    "code": "countdown_1",
+                    "type": "Integer",
+                    "values": {
+                        "unit": "s",
+                        "min": 0,
+                        "max": 86400,
+                        "scale": 0,
+                        "step": 1
+                    }
+                },
+                "38": {
+                    "code": "relay_status",
+                    "type": "Enum",
+                    "values": {
+                        "range": [
+                            "power_off",
+                            "power_on",
+                            "last"
+                        ]
+                    }
+                },
+                "40": {
+                    "code": "light_mode",
+                    "type": "Enum",
+                    "values": {
+                        "range": [
+                            "relay",
+                            "pos",
+                            "none"
+                        ]
+                    }
+                },
+                "41": {
+                    "code": "child_lock",
+                    "type": "Boolean",
+                    "values": {}
+                },
+                "42": {
+                    "code": "cycle_time",
+                    "type": "String",
+                    "values": "{}"
+                },
+                "43": {
+                    "code": "random_time",
+                    "type": "String",
+                    "values": "{}"
+                },
+                "44": {
+                    "code": "switch_inching",
+                    "type": "String",
+                    "values": "{}"
+                }
+            }
+        }
+    ],
+    "success": true,
+    "t": 1746453138608,
+    "tid": "28dba2b429b811f0b52a5a6be63f4241",
+    "file": {
+        "name": "tuya-raw.json",
+        "description": "Full raw list of Tuya devices.",
+        "account": "u45ma3n9qjc74kggyfvq",
+        "date": "2025-05-05T07:52:22.326689",
+        "tinytuya": "1.16.3"
+    }
+}

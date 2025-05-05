@@ -1,0 +1,37 @@
+{
+    "timestamp": 1746453181.5560727,
+    "devices": [
+        {
+            "id": "eb8ede9d76e23e3c160wp2",
+            "ip": "192.168.0.36",
+            "uuid": "471a6f322707d173",
+            "active": 2,
+            "encrypt": true,
+            "productKey": "abhyyb8q3h05joxw",
+            "token": true,
+            "wf_cfg": true,
+            "sl": 0,
+            "clientLink": 3,
+            "name": "Dream Color RGB",
+            "key": "f+.z1#WH;aIZ>Zw?",
+            "mac": "38:2c:e5:dc:ab:2a",
+            "ability": 0,
+            "dev_type": "default",
+            "err": "",
+            "type": "default",
+            "dps": {
+                "dps": {
+                    "20": true,
+                    "21": "colour",
+                    "26": 0,
+                    "47": 720,
+                    "53": 720,
+                    "101": false,
+                    "104": 20
+                }
+            },
+            "origin": "broadcast",
+            "ver": "3.5"
+        }
+    ]
+}

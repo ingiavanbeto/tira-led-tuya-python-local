@@ -1,0 +1,249 @@
+[
+    {
+        "name": "Dream Color RGB",
+        "id": "eb8ede9d76e23e3c160wp2",
+        "key": "f+.z1#WH;aIZ>Zw?",
+        "mac": "38:2c:e5:dc:ab:2a",
+        "uuid": "471a6f322707d173",
+        "sn": "10016459300119",
+        "category": "dd",
+        "product_name": "Dream Color RGB",
+        "product_id": "abhyyb8q3h05joxw",
+        "biz_type": 18,
+        "model": "DR03W",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/bay1603977681600o7pj/4a97400e6f366f2af15397fddd50cbd0.png",
+        "mapping": {
+            "20": {
+                "code": "switch_led",
+                "type": "Boolean",
+                "values": {}
+            },
+            "21": {
+                "code": "work_mode",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "white",
+                        "colour",
+                        "scene",
+                        "music"
+                    ]
+                }
+            },
+            "24": {
+                "code": "colour_data",
+                "type": "Json",
+                "raw_values": "{\"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}}",
+                "values": {
+                    "h": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 360,
+                        "step": 1
+                    },
+                    "s": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 1000,
+                        "step": 1
+                    },
+                    "v": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 1000,
+                        "step": 1
+                    }
+                }
+            },
+            "26": {
+                "code": "countdown",
+                "type": "Integer",
+                "values": {
+                    "unit": "s",
+                    "min": 0,
+                    "max": 86400,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "27": {
+                "code": "music_data",
+                "type": "Json",
+                "raw_values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}",
+                "values": {
+                    "change_mode": {
+                        "range": [
+                            "direct",
+                            "gradient"
+                        ]
+                    },
+                    "bright": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 1000,
+                        "step": 1
+                    },
+                    "temperature": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 1000,
+                        "step": 1
+                    },
+                    "h": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 360,
+                        "step": 1
+                    },
+                    "s": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 255,
+                        "step": 1
+                    },
+                    "v": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 255,
+                        "step": 1
+                    }
+                }
+            },
+            "28": {
+                "code": "control_data",
+                "type": "Json",
+                "raw_values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}",
+                "values": {
+                    "change_mode": {
+                        "range": [
+                            "direct",
+                            "gradient"
+                        ]
+                    },
+                    "bright": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 1000,
+                        "step": 1
+                    },
+                    "temperature": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 1000,
+                        "step": 1
+                    },
+                    "h": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 360,
+                        "step": 1
+                    },
+                    "s": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 255,
+                        "step": 1
+                    },
+                    "v": {
+                        "min": 0,
+                        "scale": 0,
+                        "unit": "",
+                        "max": 255,
+                        "step": 1
+                    }
+                }
+            }
+        },
+        "ip": "192.168.0.36",
+        "version": "3.5"
+    },
+    {
+        "name": "luz cuarto",
+        "id": "eb2939b5aa039f7e8d5e8q",
+        "key": "HGJ&o;u*[E&.@#PP",
+        "mac": "c4:82:e1:97:58:eb",
+        "uuid": "15a6942d51647258",
+        "category": "cz",
+        "product_name": "Steren SHOME-100",
+        "product_id": "m0fuzrzt3olla9yb",
+        "biz_type": 18,
+        "model": "SHOME-100",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/ay1540317544338HahJd/ceab454f5045f6b3808851110ced24d6.png",
+        "mapping": {
+            "1": {
+                "code": "switch_1",
+                "type": "Boolean",
+                "values": {}
+            },
+            "9": {
+                "code": "countdown_1",
+                "type": "Integer",
+                "values": {
+                    "unit": "s",
+                    "min": 0,
+                    "max": 86400,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "38": {
+                "code": "relay_status",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "power_off",
+                        "power_on",
+                        "last"
+                    ]
+                }
+            },
+            "40": {
+                "code": "light_mode",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "relay",
+                        "pos",
+                        "none"
+                    ]
+                }
+            },
+            "41": {
+                "code": "child_lock",
+                "type": "Boolean",
+                "values": {}
+            },
+            "42": {
+                "code": "cycle_time",
+                "type": "String",
+                "values": "{}"
+            },
+            "43": {
+                "code": "random_time",
+                "type": "String",
+                "values": "{}"
+            },
+            "44": {
+                "code": "switch_inching",
+                "type": "String",
+                "values": "{}"
+            }
+        },
+        "ip": "",
+        "version": ""
+    }
+]
